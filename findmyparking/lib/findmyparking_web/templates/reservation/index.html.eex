@@ -1,0 +1,11 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+    <div id="reservationmap-app"></div>
+    <div id="reservation-app"></div>
+</body>
+</html>
+
